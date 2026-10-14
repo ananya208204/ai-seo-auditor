@@ -1,0 +1,12 @@
+# Crawlwise AI
+
+> Free AI SEO website auditor. Paste a URL to get 40+ technical, on-page, performance and AI-search (GEO) checks with prioritised, AI-written fixes.
+
+## Product
+- [Free SEO audit](/): Run an audit on any public URL
+- [Pricing](/pricing): Free, Pro and Agency plans
+
+## Guides
+- [SEO audit checklist](/blog/seo-audit-checklist): 12-step SEO audit process
+- [What is GEO?](/blog/generative-engine-optimization): Getting cited by ChatGPT, Perplexity and AI Overviews
+- [Technical SEO basics](/blog/technical-seo-basics): robots.txt, sitemaps, canonicals and redirects
